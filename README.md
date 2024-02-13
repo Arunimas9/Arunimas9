@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*PNg6D9dSHR2kKNW4nNBKnA.jpeg)
 <h1 align="left">Arunima Sagunan</h1>
-<h3 align="center">Passionate about AI | Machine Learning Enthusiast | MSc in Artificial Intelligence Student</h3>
+<h3 align="left">Passionate about AI | Machine Learning Enthusiast | MSc in Artificial Intelligence Student</h3>
 <img align="right" alt="AI" width="400" src=“https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunimas9&label=Profile%20views&color=0e75b6&style=flat" alt="arunimas9" /> </p>
