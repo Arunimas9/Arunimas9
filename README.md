@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I can debug code and tell a good joke, but when it comes to deciding which one is more challenging, that's a real coding dilemma! Ask me anything about debugging or humor – I've got both covered!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
