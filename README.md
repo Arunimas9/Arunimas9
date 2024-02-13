@@ -1,6 +1,6 @@
 
 <h1 align="left">Arunima Sagunan</h1>
-<h3 align="left">Passionate about  AI | Machine Learning | Programming & Testing Softwares </h3>
+<h3 align="left">Passionate about  AI | Machine Learning | Deep Learning | Programming & Testing Softwares </h3>
 <h3 align="left"> MSc in Artificial Intelligence Student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunimasagunan&label=Profile%20views&color=0e75b6&style=flat" alt="arunimasagunan" /> </p>
