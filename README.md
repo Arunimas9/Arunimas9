@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **my journey in mastering Natural Language Processing, delving into Big Data tools, or inquire about my background in software testing. While I have a foundational understanding in programming languages and have a solid foundation in machine learning and deep learning. Whether it's about AI, software testing, programming, or the intersections of these domains, I'm here to share my knowledge and experiences!**
 
-- 📫 How to reach me **arunimasagunan5@gmail.comC
+- 📫 How to reach me **arunimasagunan5@gmail.com
 
 - ⚡ Fun fact **I can debug code and tell a good joke, but when it comes to deciding which one is more challenging, that's a real coding dilemma! Ask me anything about debugging or humor – I've got both covered!**
 
