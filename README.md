@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://img.freepik.com/premium-photo/digital-thinking-neural-networks-artificial-intelligence-machine-science-banner-made-with-generative-ai_155027-3430.jpg?w=1480)
+![I am GitHub Readme Generator's creator](https://www.iais.fraunhofer.de/en/research/artificial-intelligence/jcr:content/stage/stageParsys/stage_slide/image.img.4col.jpg/1630133967763/KI-buehnejpg.jpg)
 <h1 align="left">Arunima Sagunan</h1>
 <h3 align="left">Passionate about AI | Machine Learning Enthusiast | MSc in Artificial Intelligence Student</h3>
 
