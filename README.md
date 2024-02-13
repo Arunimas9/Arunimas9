@@ -7,11 +7,11 @@
 
 - 🌱I'm currently immersed in learning **Natural Language Processing and mastering Big Data tools and techniques. Exploring the intricacies of language processing and harnessing the power of big data are my primary focuses at the moment.**
 
-- 🤝 I'm looking for help with **delving deeper into Natural Language Processing and navigating the complexities of Big Data tools and techniques. Any insights, resources, or advice would be greatly appreciated!**
+- 🤝 I'm looking for collaboration on projects for **delving deeper into the world of Machine Vision, Machine Learning, Big Data, and Natural Language Processing. Any insights, resources, or advice would be greatly appreciated!**
 
 - 💬 Ask me about **my journey in mastering Natural Language Processing, delving into Big Data tools, or inquire about my background in software testing. While I have a foundational understanding in programming languages and have a solid foundation in machine learning and deep learning. Whether it's about AI, software testing, programming, or the intersections of these domains, I'm here to share my knowledge and experiences!**
 
-- 📫 How to reach me **arunimasagunan5@gmail.com**
+- 📫 How to reach me **arunimasagunan5@gmail.comC
 
 - ⚡ Fun fact **I can debug code and tell a good joke, but when it comes to deciding which one is more challenging, that's a real coding dilemma! Ask me anything about debugging or humor – I've got both covered!**
 
